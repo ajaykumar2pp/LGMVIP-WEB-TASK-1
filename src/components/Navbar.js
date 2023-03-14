@@ -12,7 +12,7 @@ const Navbar = () => {
         <a href="https://www.linkedin.com/in/ajay-kumar-6a041b1ba/" target="_blank" rel="noreferrer">< BsLinkedin className=" text-primary me-3 h3" /> </a>
 
         {/* Github Link  */}
-        <a href="https://github.com/ajaykumar2pp/Chat-App" target="_blank" rel="noreferrer">< BsGithub className=" text-primary h3" /> </a>
+        <a href="https://github.com/ajaykumar2pp/LGMVIP-WEB-TASK-1" target="_blank" rel="noreferrer">< BsGithub className=" text-primary h3" /> </a>
 
       </div>
     </div>
