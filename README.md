@@ -1,3 +1,57 @@
+# Todo List  🚀🚀
+
+## ⭐ Introduction
+
+This is a Todo List Project which is built using Reactjs ,CSS  , Bootstrap. It is responsive across all devices.
+<br/>
+<br/>
+
+## Features
+-Add Task <br/>
+-Update Task<br/>
+-Delete Task<br/>
+-Read Task<br/>
+<br/>
+<br/>
+
+## Packages Install
+-react-bootstrap<br/>
+-bootstrap<br/>
+-react-icons<br/>
+
+
+
+
+## 🔗 Links
+> ## CheckOut the website link  https://lgmvip-web-todo-list.netlify.app/
+<br/>
+<br/>
+## 💻 Screens
+
+### Read Album
+![Screenshot (198)](https://user-images.githubusercontent.com/102378038/225042417-26d8db3f-1182-4886-a666-154a23b4c210.png)
+
+
+
+###  Add Album
+
+
+![Screenshot (202)](https://user-images.githubusercontent.com/102378038/225042457-10eac011-8406-420c-8a74-8446535158ba.png)
+
+
+
+###  Update Album
+
+![Screenshot (199)](https://user-images.githubusercontent.com/102378038/225042524-8a410298-d7f7-4892-b042-870929dab522.png)
+
+
+
+
+###  Delete Album 
+![Screenshot (200)](https://user-images.githubusercontent.com/102378038/225042572-d905f82e-ec91-4c98-aa7e-81aa9d2d1275.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
